@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".SplashActivity"
+    android:background="@drawable/jesus"
+    >
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Docente:"
+        android:textAlignment="center"
+        android:textSize="20dp"
+        android:textColor="#F7F6F6"
+        android:fontFamily="sans-serif-condensed-medium"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Manuel de Jesus Gamez Lopez"
+        android:textAlignment="center"
+        android:textSize="20dp"
+        android:textColor="#E2ADAD"
+        android:fontFamily="sans-serif-condensed-medium"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Integrantes:"
+        android:textAlignment="center"
+        android:textSize="20dp"
+        android:textColor="#F3EFEF"
+        android:fontFamily="sans-serif-condensed-medium"
+        android:layout_marginTop="8dp"
+        />
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Claudia Antonia Hernandez Montano"
+        android:textAlignment="center"
+        android:textSize="20dp"
+        android:textColor="#E2ADAD"
+        android:fontFamily="sans-serif-condensed-medium"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Lisbeth Arely Lopez Melendez"
+        android:textAlignment="center"
+        android:textSize="20dp"
+        android:textColor="#E2ADAD"
+        android:fontFamily="sans-serif-condensed-medium"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Kevin Alexander Garcia Cruz"
+        android:textAlignment="center"
+        android:textSize="20dp"
+        android:textColor="#E2ADAD"
+        android:fontFamily="sans-serif-condensed-medium"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Manuel Eduardo Fernandez  Jovel"
+        android:textAlignment="center"
+        android:textSize="20dp"
+        android:textColor="#E2ADAD"
+        android:fontFamily="sans-serif-condensed-medium"
+        />
+
+
+</LinearLayout>
