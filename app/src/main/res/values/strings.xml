@@ -1,16 +1,17 @@
 <resources>
-    <string name="app_name">ProyectoFinal2019</string>
+    <string name="app_name">Proyecto Final 2019</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
-    <string name="nav_header_title">Android Studio</string>
-    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_title">Proyecto Final 2019</string>
+    <string name="nav_header_subtitle"></string>
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">Settings</string>
 
-    <string name="menu_home">Home</string>
-    <string name="menu_gallery">Gallery</string>
-    <string name="menu_slideshow">Slideshow</string>
-    <string name="menu_tools">Tools</string>
-    <string name="menu_share">Share</string>
-    <string name="menu_send">Send</string>
+    <string name="buscar">Buscar</string>
+    <string name="menu_home">Inicio</string>
+    <string name="menu_gallery">Categorias</string>
+    <string name="menu_slideshow">Categorias</string>
+    <string name="menu_tools">Herramientas</string>
+    <string name="menu_share">Compartir</string>
+    <string name="menu_send">Salir</string>
 </resources>
