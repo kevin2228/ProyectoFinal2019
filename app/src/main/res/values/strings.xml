@@ -7,11 +7,13 @@
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">Settings</string>
 
-    <string name="buscar">Buscar</string>
+
     <string name="menu_home">Inicio</string>
-    <string name="menu_gallery">Categorias</string>
-    <string name="menu_slideshow">Categorias</string>
-    <string name="menu_tools">Herramientas</string>
-    <string name="menu_share">Compartir</string>
+
+    <string name="menu_gallery">Nuevo Autor</string>
+    <string name="menu_slideshow">Nueva Categoria</string>
+    <string name="menu_tools">Agregar al Himnario</string>
+    <string name="menu_share">Buscar</string>
+
     <string name="menu_send">Salir</string>
 </resources>
