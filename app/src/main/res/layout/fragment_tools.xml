@@ -17,6 +17,7 @@
         android:textSize="20sp" />
 
     <Spinner
+        android:id="@+id/spAutor"
         android:layout_width="match_parent"
         android:layout_height="35dp"
         android:layout_marginLeft="20dp"
@@ -25,6 +26,7 @@
         />
 
     <Spinner
+        android:id="@+id/spCategoria"
         android:layout_width="match_parent"
         android:layout_height="35dp"
         android:layout_marginLeft="20dp"
@@ -33,6 +35,7 @@
         />
 
     <EditText
+        android:id="@+id/Titulo"
         android:layout_width="match_parent"
         android:layout_height="40dp"
         android:layout_marginRight="20dp"
@@ -44,6 +47,7 @@
         />
 
     <EditText
+        android:id="@+id/Letra"
         android:layout_width="match_parent"
         android:layout_height="40dp"
         android:layout_marginRight="20dp"
@@ -64,6 +68,7 @@
             android:orientation="vertical">
 
             <CalendarView
+                android:id="@+id/Calendario"
                 android:layout_width="match_parent"
                 android:layout_height="302dp"
                 android:layout_marginLeft="50dp"
@@ -72,6 +77,7 @@
                 />
 
     <TimePicker
+        android:id="@+id/Reloj"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginRight="50dp"
